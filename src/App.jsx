@@ -1,5 +1,5 @@
 import Camera from "./Camera";
-
+import "./App.css";
 function App() {
   return (
     <div>
